@@ -1,0 +1,2 @@
+# schoolmanagementsystem
+student registration
